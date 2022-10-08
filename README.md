@@ -1,4 +1,10 @@
-# Dead-Dog
+# Don't know how to get files?
+**Go to "Release" to download files!**
+
+**请前往Release下载黑屏PPT！**
+
+
+# Dead-Dog Introduction 死狗（现名黑屏）简介
 "Dead Dog (死狗)"——A PowerPoint file which can blacken the screen
 
 [Story of "Dead Dog"]
