@@ -1,7 +1,7 @@
 # 下载
 
 **请前往Release(s)板块下载黑屏PPT！**
-
+传送门：<a href>https://github.com/Nick-DL/Dead-Dog/releases</a>
 
 # Dead-Dog Introduction 死狗（现名黑屏）简介
 （下面英文介绍全是机翻）
