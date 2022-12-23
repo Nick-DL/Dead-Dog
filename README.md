@@ -6,7 +6,7 @@
 
 ![latest_release_info](https://img.shields.io/github/v/release/Nick-DL/Dead-dog)
 
-# Dead-Dog Introductin 死狗（现名黑屏）简介
+# Dead-Dog Introduction 死狗（现名黑屏）简介
 
 （下面英文介绍全是机翻）
 
