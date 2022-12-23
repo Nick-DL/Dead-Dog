@@ -1,13 +1,18 @@
 # 下载
 
-**请前往Release(s)板块下载黑屏PPT！**
-传送门：<a href>https://github.com/Nick-DL/Dead-Dog/releases</a>
+**请前往Releases板块下载黑屏PPT！**
 
-# Dead-Dog Introduction 死狗（现名黑屏）简介
+传送门：![latest_release_info](https://img.shields.io/github/v/release/Nick-DL/Dead-dog)
+
+# Dead-Dog Introductin 死狗（现名黑屏）简介
+
 （下面英文介绍全是机翻）
+
 "Dead Dog (死狗)"——A PowerPoint file which can blacken the screen
 
-[Story of "Dead Dog"]
+![smallicon](https://user-images.githubusercontent.com/106737278/209271320-6647d478-8c97-4aef-a85f-fa111fcbfdc7.png)
+
+# Story of "Dead Dog" 一点破事
 
  The name "dead dog" comes from the great physics teacher Zhang. It is used to describe students who play in class. The PowerPoint file, which blacken the screen and make turning on computers easier, it is very similar to the description of "dead dog", so this PPT has called "dead dog" since that.
  
