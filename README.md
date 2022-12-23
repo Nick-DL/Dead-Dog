@@ -2,7 +2,9 @@
 
 **请前往Releases板块下载黑屏PPT！**
 
-传送门：![latest_release_info](https://img.shields.io/github/v/release/Nick-DL/Dead-dog)
+[传送门](https://github.com/Nick-DL/Dead-Dog/releases)
+
+![latest_release_info](https://img.shields.io/github/v/release/Nick-DL/Dead-dog)
 
 # Dead-Dog Introductin 死狗（现名黑屏）简介
 
