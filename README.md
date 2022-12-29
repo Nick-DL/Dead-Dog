@@ -25,4 +25,4 @@
 
 So Dead Dog is really a great thing at times. You can also enjoy its design style which comes from HUAWEI HarmonyOS. I might be the first one in the whole world who make PPT files in a design style of HarmonyOS!
 
-That's aaaall. Even if you will say that What I've done is very strange because I made a PPT as if I made a programme, don't mind it. I just doing sth enjoyable from my point of view. 
+That's aaaall. Even if you think what I've done is very strange because I made a PPT as if a programme, don't mind it. I just doing sth enjoyable from my point of view. 
