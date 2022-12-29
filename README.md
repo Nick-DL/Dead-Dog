@@ -1,8 +1,8 @@
 # 下载
 
-**请前往[Releases](https://github.com/Nick-DL/Dead-Dog/releases)板块下载“黑屏”！**
+**请前往 [Releases 板块](https://github.com/Nick-DL/Dead-Dog/releases)下载“黑屏”！**
 
-
+最新版本信息：
 ![latest_release_info](https://img.shields.io/github/v/release/Nick-DL/Dead-dog)
 
 # Dead-Dog Introduction 死狗（现名黑屏）简介
@@ -17,7 +17,7 @@
 
  The name "dead dog" comes from the great physics teacher Zhang. It is used to describe students who play in class. The PowerPoint file, which blacken the screen and make turning on computers easier, it is very similar to the description of "dead dog", so this PPT has called "dead dog" since that.
  
- “死狗”此名来自伟大的物理张老师，用以形容上课不认真的同学。将电脑黑屏，为了便于打开电脑的PPT与“死狗”所形容的很像，便称之为“死狗”。
+ “死狗”此名来自伟大的物理张老师，用以形容上课不认真的同学。将电脑黑屏，为了便于打开电脑的 PPT 与“死狗”所形容的很像，便称之为“死狗”。
 
 **Q** Why do I blacken the screen?
 
