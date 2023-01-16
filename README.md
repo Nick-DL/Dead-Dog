@@ -7,11 +7,15 @@
 
 # Dead-Dog Introduction 死狗（现名黑屏）简介
 
-（下面英文介绍全是机翻）
+> 下面英文介绍全是机翻
+
+> Tips: 这部分内容已经年久失修，需要看介绍的建议去[我的网站](https://nick-dl.github.io/dead-dog/)
 
 "Dead Dog (死狗)"——A PowerPoint file which can blacken the screen
 
-![smallicon](https://user-images.githubusercontent.com/106737278/209271320-6647d478-8c97-4aef-a85f-fa111fcbfdc7.png)
+<p align="center"> 
+         <img src="https://user-images.githubusercontent.com/106737278/209271320-6647d478-8c97-4aef-a85f-fa111fcbfdc7.png"/> 
+ </p>
 
 # Story of "Dead Dog" “故事”
 
@@ -19,7 +23,11 @@
  
  “死狗”此名来自伟大的物理张老师，用以形容上课不认真的同学。将电脑黑屏，为了便于打开电脑的 PPT 与“死狗”所形容的很像，便称之为“死狗”。
 
-![Mr Zhang](https://raw.githubusercontent.com/Nick-DL/Dead-Dog/main/Notepad_202212301156_10156.jpg)
+<p align="center"> 
+         <img src="https://raw.githubusercontent.com/Nick-DL/Dead-Dog/main/Notepad_202212301156_10156.jpg"/> 
+ </p>
+
+# 答 辩
 
 **Q** Why do I blacken the screen?
 
@@ -28,5 +36,3 @@
 So Dead Dog is really a great thing at times. You can also enjoy its design style which comes from HUAWEI HarmonyOS. I might be the first one in the whole world who make PPT files in a design style of HarmonyOS!
 
 That's aaaall. Even if you think what I've done is very strange because I made a PPT as if a programme, don't mind it. I just doing sth enjoyable from my point of view. 
-
-# 答 辩
