@@ -24,7 +24,7 @@
  “死狗”此名来自伟大的物理张老师，用以形容上课不认真的同学。将电脑黑屏，为了便于打开电脑的 PPT 与“死狗”所形容的很像，便称之为“死狗”。
 
 <p align="center"> 
-         <img src="https://raw.githubusercontent.com/Nick-DL/Dead-Dog/main/Notepad_202212301156_10156.jpg"/> 
+         <a href="https://raw.githubusercontent.com/Nick-DL/Dead-Dog/main/Notepad_202212301156_10156.jpg"/> Mr Zhang
  </p>
 
 # 答 辩
