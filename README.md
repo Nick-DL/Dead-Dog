@@ -8,7 +8,7 @@
 # Dead-Dog Introduction 死狗（现名黑屏）简介
 
 > 下面英文介绍全是机翻
-
+>
 > ⚠️ Tips: 这部分内容已经年久失修，需要看介绍的建议去[我的网站](https://nick-dl.github.io/dead-dog/)
 
 "Dead Dog (死狗)"——A PowerPoint file which can blacken the screen
