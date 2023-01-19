@@ -3,11 +3,11 @@
 **请前往 [Releases 板块](https://github.com/Nick-DL/Dead-Dog/releases)下载“黑屏”！**
 
 最新版本信息：
-![latest_release_info](https://img.shields.io/github/v/release/Nick-DL/Dead-dog)
+<img src="https://img.shields.io/github/v/release/Nick-DL/Dead-dog"/>
 
 # Dead-Dog Introduction 死狗（现名黑屏）简介
 
-> 下面英文介绍全是机翻
+> (下面英文介绍全是机翻)
 >
 > ⚠️ Tips: 这部分内容已经年久失修，需要看介绍的建议去[我的网站](https://nick-dl.github.io/dead-dog/)
 
@@ -24,7 +24,7 @@
  “死狗”此名来自伟大的物理张老师，用以形容上课不认真的同学。将电脑黑屏，为了便于打开电脑的 PPT 与“死狗”所形容的很像，便称之为“死狗”。
 
 <p align="center"> 
-         <a href="https://raw.githubusercontent.com/Nick-DL/Dead-Dog/main/Notepad_202212301156_10156.jpg"/> Mr Zhang
+         <img src="https://user-images.githubusercontent.com/106737278/213457402-906adae4-a24b-4624-b948-cb88ad55547a.jpg"/>
  </p>
 
 # 答 辩
