@@ -1,33 +1,33 @@
-# 下载
+<div align="center">
+<img src="https://github.com/Nick-DL/Dead-Dog/assets/106737278/cf1db8b7-7312-4910-85a4-4a93c7f79a3e" alt="icon"/>
 
-**请前往 [Releases 板块](https://github.com/Nick-DL/Dead-Dog/releases)下载“黑屏”！**
+<h1 align="center">Dead Dog</h1>
 
-最新版本信息：
-<img src="https://img.shields.io/github/v/release/Nick-DL/Dead-dog"/>
+**English** / [简体中文](./README_CN.md)
 
-# Dead-Dog Introduction 死狗（现名黑屏）简介
+A PowerPoint file which can make the screen black<br>Also named "Screen Blackening"
 
-> (下面英文介绍全是机翻)
->
-> ⚠️ Tips: 这部分介绍文字已经年久失修，需要看介绍的建议去[我的网站](https://nick-dl.github.io/dead-dog/)
+<a href="./releases"><img src="https://img.shields.io/github/v/release/Nick-DL/Dead-dog"/></a>
 
-"Dead Dog (死狗)"——A PowerPoint file which can blacken the screen
+[Docs & Guide](https://nickdl.site/works/dead-dog/document) / [Live Preview](https://kdocs.cn/l/cc9wfsC9gMUZ) / [Live Preview (Lite Version)](https://kdocs.cn/l/csFqiA6q8U2v) / [1st Anniversary](https://nickdl.site/works/dead-dog/1st-anniversary)
 
-<p align="center"> 
-         <img src="https://user-images.githubusercontent.com/106737278/209271320-6647d478-8c97-4aef-a85f-fa111fcbfdc7.png"/> 
- </p>
+</div>
 
-# Story of "Dead Dog" “故事”
+-----
+
+## Download
+
+**Visit [Releases page](https://github.com/Nick-DL/Dead-Dog/releases) to download**
+
+## Introduction
+### Story of "Dead Dog" 
 
  The name "dead dog" comes from the great physics teacher Mr Zhang. It is used to describe students who play in class. The PowerPoint file, which blacken the screen and make turning on computers easier, is very similar to what "dead dog" describes. So this PPT has been called "dead dog" since that.
- 
- “死狗”此名来自伟大的物理张老师，用以形容上课不认真的同学。将电脑黑屏，为了便于打开电脑的 PPT 与“死狗”所形容的很像，便称之为“死狗”。
-
 <p align="center"> 
          <img src="https://user-images.githubusercontent.com/106737278/213457402-906adae4-a24b-4624-b948-cb88ad55547a.jpg"/>
  </p>
 
-# 答 辩
+### Q & A
 
 **Q** Why do I blacken the screen?
 
@@ -36,3 +36,7 @@
 So Dead Dog is really a great thing at times. You can also enjoy its design style which comes from HUAWEI HarmonyOS. I might be the first one in the whole world who make PPT files in a design style of HarmonyOS!
 
 That's aaaall. Even if you think what I've done is very strange because I made a PPT as if a programme, don't mind it. I just doing sth enjoyable from my point of view. 
+
+## Future Planning
+
+Ever since I entered senior high, Dead Dog has been of no use. Maybe in the future, I'll remake it with UWP, then it can be turned into a real application.
