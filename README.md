@@ -9,7 +9,7 @@ A PowerPoint file which can make the screen black<br>Also named "Screen Blackeni
 
 <a href="./releases"><img src="https://img.shields.io/github/v/release/Nick-DL/Dead-dog"/></a>
 
-[Docs & Guide](https://nickdl.site/works/dead-dog/document) / [Live Preview](https://kdocs.cn/l/cc9wfsC9gMUZ) / [Live Preview (Lite Version)](https://kdocs.cn/l/csFqiA6q8U2v) / [1st Anniversary](https://nickdl.site/works/dead-dog/1st-anniversary)
+[Docs & Guide](https://github.com/Nick-DL/Dead-Dog/blob/main/docs/docs.md) / [Live Preview](https://kdocs.cn/l/cc9wfsC9gMUZ) / [Live Preview (Lite Version)](https://kdocs.cn/l/csFqiA6q8U2v) / [1st Anniversary](https://github.com/Nick-DL/Dead-Dog/blob/main/1st-anniversary/1st-anniversary.md)
 
 </div>
 

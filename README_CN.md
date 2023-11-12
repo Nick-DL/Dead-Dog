@@ -9,7 +9,7 @@
 
 <a href="./releases"><img src="https://img.shields.io/github/v/release/Nick-DL/Dead-dog"/></a>
 
-[文档和教程](https://nickdl.site/works/dead-dog/document) / [在线预览](https://kdocs.cn/l/cc9wfsC9gMUZ) / [在线预览 (Lite 版)](https://kdocs.cn/l/csFqiA6q8U2v) / [一周年纪念页](https://nickdl.site/works/dead-dog/1st-anniversary)
+[文档和教程](https://github.com/Nick-DL/Dead-Dog/blob/main/docs/docs_CN.md) / [在线预览](https://kdocs.cn/l/cc9wfsC9gMUZ) / [在线预览 (Lite 版)](https://kdocs.cn/l/csFqiA6q8U2v) / [一周年纪念页](https://github.com/Nick-DL/Dead-Dog/blob/main/1st-anniversary/1st-anniversary_CN.md)
 
 </div>
 
