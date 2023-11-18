@@ -3,12 +3,17 @@
 ## Happy one year anniversary of Screen Blackening (Dead Dog)!
 
 In the past year, too much has happened
+
 The scenery that passed away along the way will eventually be obliterated
 
+
 Making this page and another commemorative video
+
 Just hope
 
+
 At this moment, it can stay a little longer
+
 
 The happiness that coexists with "Dead Dog"
 Don't forget...
