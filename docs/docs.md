@@ -8,7 +8,7 @@
 
 Drag and drop the Screen Blackening PPT onto the pinned taskbar icon, and when the "Pin file to quick access" prompt appears, release it. After that, right-click (or long press) this icon to find the shortcut link to the PPT.
 
-#### On Windows 11 and below devices:
+#### On Windows 11 and above devices:
 
 First open the Screen Blackening PPT, pin WPS Office or PowerPoint to the taskbar, right-click (or long press), find and pin the PPT in the recently accessed files, and it becomes a shortcut link.
 
